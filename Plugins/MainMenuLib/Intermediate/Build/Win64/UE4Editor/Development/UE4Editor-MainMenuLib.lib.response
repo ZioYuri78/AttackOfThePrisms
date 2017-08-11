@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MainMenuLib.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Gamedev\UE4\Projects\MyProjects\AttackOfThePrisms\Plugins\MainMenuLib\Intermediate\Build\Win64\UE4Editor\Development\MainMenuLib\Module.MainMenuLib.cpp.obj"
+"D:\Gamedev\UE4\Projects\MyProjects\AttackOfThePrisms\Plugins\MainMenuLib\Intermediate\Build\Win64\UE4Editor\Development\MainMenuLib\Module.MainMenuLib.gen.cpp.obj"
+"C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\MainMenuLib\PCLaunch.rc.res"
+"C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Gamedev\UE4\Projects\MyProjects\AttackOfThePrisms\Plugins\MainMenuLib\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MainMenuLib.lib"
